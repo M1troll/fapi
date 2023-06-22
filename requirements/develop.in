@@ -1,0 +1,7 @@
+# CPU emulator framework 
+# https://www.unicorn-engine.org/docs/
+unicorn
+
+# Web framework for building APIs
+# https://fastapi.tiangolo.com/
+fastapi[all]
